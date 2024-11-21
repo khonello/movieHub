@@ -1,1 +1,1 @@
-# movieHub
+# Movie Hub
